@@ -7,19 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## File-Manager
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+File-Manager is a web application framework with expressive, elegant syntax. We believe development of file-manager must be an enjoyable, easy to the user and creative experience. File-manager is just like the google drive version that has been cloned because it just works the same.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Simple, fast routing engine and easy to use](https://drive.google.com/drive/my-drive).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+File-Manager is accessible, powerful and provides tools required for large, robust applications and it also works as a crud Application.
 
 ## Learning Laravel
 
